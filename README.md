@@ -4,6 +4,19 @@ A Python project for **real-time object detection** using **OpenCV’s DNN modul
 
 ---
 ## 🔹 Project preview
+## 📸 Screenshot
+
+![Object Detection Interface](https://raw.githubusercontent.com/Ayush2049/OBJECT-DETECTION--THROUGH-IMAGE-VIDEO-AND-WEBCAM/57f2b7a7e7b38f90fa4b8b55282dbdfb58bdbe2e/project-instances/Screenshot%202025-10-19%20125811.png)
+
+*A snapshot of the object detection interface.*
+
+---
+
+## 🎥 Video Demonstration
+
+[![Watch Video](https://raw.githubusercontent.com/Ayush2049/OBJECT-DETECTION--THROUGH-IMAGE-VIDEO-AND-WEBCAM/main/project-instances/video_thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+*Click the thumbnail to watch the demonstration video.*
 
 ---
 ## 🔹 Features
